@@ -1,10 +1,10 @@
-import React from 'react'
-import { View } from 'react-native'
+import React from "react";
+import { View } from "react-native";
 
 export default function User() {
-    return <View />    
+    return <View />;
 }
 
 User.navigationOptions = {
-    title: 'user'
-}
+    title: "user"
+};
