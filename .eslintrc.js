@@ -31,6 +31,9 @@ module.exports = {
                 extensions: ['.jsx', '.js']
             }
         ],
-        'import/prefer-default-export': 'off'
+        'import/prefer-default-export': 'off',
+        'react/state-in-constructor': 'off',
+        'react/sort-comp': 'off',
+        'react/static-property-placement': 'off'
   },
 };
